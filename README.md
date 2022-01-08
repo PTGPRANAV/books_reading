@@ -26,6 +26,6 @@ This project proposes a “Books reading application”  to keep a plothera of b
 
 <b> Application Link & Future Scope : </b>
 
-The app is currently in the Alpha testing phase with Army institute of technology with a limited no. of users, You can access the app : [YOUR APP LINK HERE](either Github link or Google Play store link of published app or .apk file).
+The app is currently in the Alpha testing phase with Army institute of technology with a limited no. of users, You can access the app : [https://github.com/adityajoshi692003/BooksReading]
 
 Once the app is fully tested and functional in Army institute of technology, we plan to talk to neighboring colleges also to propose this app idea and collaborate with them on this transportation service. We aim that by next year most of the colleges in our district will use books reading app so they could explore and read the books of thier choices. 
