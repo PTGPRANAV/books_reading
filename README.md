@@ -15,7 +15,8 @@ This project proposes a “Books reading application”  to keep a plothera of b
     	  	
 <b> Functionality & Concepts used : </b>
 
-- The App has a very simple and interactive interface which helps the students select their favourite books. Following are few android concepts used to achieve the functionalities in app : 
+- The App has a very simple and interactive interface which helps the students select their favourite books. Following are few android concepts used to achieve the functionalities in app :
+- Linear layout: LinearLayout is a view group that aligns all children in a single direction, vertically or horizontally.
 - Constraint Layout : Most of the activities in the app uses a flexible constraint layout, which is easy to handle for different screen sizes.
 - Simple & Easy Views Design : Use of familiar audience EditText with hints and interactive buttons made it easier for students to register or sign in without providing any detailed instructions pages. Apps also uses App Navigation to switch between different screens.
 - RecyclerView : To present the list of different route busses we used the efficient recyclerview.
