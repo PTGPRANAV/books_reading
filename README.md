@@ -11,7 +11,7 @@ Technology plays a vital role in day-to-day life activities which in turn made g
 
 This project proposes a “Books reading application”  to keep a plothera of books at one place and provides all the information about books they need to study. Its features include buying a particular book button and also gives a button to read in at the spot . It accepts student data allowing them to register to the application. This application uses GPS tracking techniques by acquiring the geo-location from the driver's mobile device and mapping it to the database. Google API’s are used for accuracy in finding the location of the busses. Currently the app works for Army institute of technology, Pune, students only. The project's scope is to extend it for other institutions to books reading in future in collaboration.
 
-<img width="559" alt="sampleimages" src="![image](https://user-images.githubusercontent.com/94399060/148635424-5dabdb4e-897c-433e-832e-9030f13e7632.png)">
+<img width="559" alt="sampleimages" src="https://photos.google.com/album/AF1QipNi7eWLIQGMn-bFcIFXhA27tktpUm8Yj6YzMCFe">
     	  	
 <b> Functionality & Concepts used : </b>
 
