@@ -22,6 +22,7 @@ This project proposes a “Books reading application”  to keep a plothera of b
 - Simple & Easy Views Design : Use of familiar audience EditText with hints and interactive buttons made it easier for students to register or sign in without providing any detailed instructions pages. Apps also uses App Navigation to switch between different screens.
 - RecyclerView : To present the list of different route busses we used the efficient recyclerview.
 - cardView : CardView is a new widget in Android that can be used to display any sort of data by providing a rounded corner layout along with a specific elevation. CardView is     the view that can display views on top of each other.
+- as of now the doesnot have internet connectivity but in the future updates it will have it.
 
 
 <b> Application Link & Future Scope : </b>
